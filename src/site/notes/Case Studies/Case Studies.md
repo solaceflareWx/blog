@@ -11,9 +11,9 @@
 
 ## Case Studies
 
-* [[Case Studies/2011 Tornado Outbreak\|2011 Tornado Outbreak]]
+* [[Case Studies/2011 Tornado Outbreak\|Case Studies/2011 Tornado Outbreak]]
 * [[Case Studies/Joplin Tornado\|Joplin Tornado]]
-* [[Hurricane Katrina\|Hurricane Katrina]]
+* [[Case Studies/Hurricane Katrina\|Case Studies/Hurricane Katrina]]
 * [[El Reno Tornado\|El Reno Tornado]]
 * [[Moore Tornado\|Moore Tornado]]
 * [[Enderlin Tornado\|Enderlin Tornado]]
